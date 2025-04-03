@@ -14,4 +14,16 @@
         width="400"
         height="140"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-dcac8563f0674bb2bd4a7b6e066644a4">
+    <bounds
+        x="473"
+        y="398"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-d39b576c894248c3b867f7dea56c9490.xml#id-d39b576c894248c3b867f7dea56c9490"/>
+  </children>
 </archimate:ArchimateDiagramModel>
