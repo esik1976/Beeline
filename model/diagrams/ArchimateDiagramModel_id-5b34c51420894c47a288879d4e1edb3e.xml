@@ -1,19 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="id-5b34c51420894c47a288879d4e1edb3e">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-beea0d7a64ce46c7a3397134afe008a1"
-      textAlignment="1">
-    <bounds
-        x="204"
-        y="156"
-        width="400"
-        height="140"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-2e56e86f34974482a2ab34ab27fa4225.xml#id-2e56e86f34974482a2ab34ab27fa4225"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="id-5b34c51420894c47a288879d4e1edb3e"/>
