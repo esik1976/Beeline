@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I2C"
+    id="id-484415b54689486a9b18f95852c73f40"
+    documentation="Управление капитальными затратами (строительство объектов, оборудование).&#xD;&#xA;Движение оборудования между складами и активация активов."/>

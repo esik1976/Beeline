@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B2C"
+    id="id-f292243711814ee1a23e3e9f0af7b71c"
+    documentation="Учет доходов и операций по оборудованию (абоненты и В2В).&#xD;&#xA;Разнесение банковских выписок, учет доходов"/>
