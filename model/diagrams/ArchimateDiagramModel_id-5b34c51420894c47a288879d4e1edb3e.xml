@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-5b34c51420894c47a288879d4e1edb3e"/>
+    name="Коропоративный уровень"
+    id="id-5b34c51420894c47a288879d4e1edb3e">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ba617a35541b43d19ae0da16cc29b606"
+      name="Корпоративный уровень"
+      textAlignment="1">
+    <bounds
+        x="168"
+        y="84"
+        width="709"
+        height="224"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-4716ab1a3ed94f1d9a5c8abdf229fe70">
+      <bounds
+          x="36"
+          y="84"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-dd5ce9f0308c4ee180a9fddaa4ef8b53.xml#id-dd5ce9f0308c4ee180a9fddaa4ef8b53"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
