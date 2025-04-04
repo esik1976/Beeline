@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Управление человеческими ресурсами"
+    id="id-3b42c778f73c49b38f2d6fcc615237c9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8328f4a2e6a4444699d3a901d99ddad2">
+    <bounds
+        x="84"
+        y="84"
+        width="1021"
+        height="229"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-740f04141b29423588957c7a82bbda91.xml#id-740f04141b29423588957c7a82bbda91"/>
+  </children>
+</archimate:ArchimateDiagramModel>

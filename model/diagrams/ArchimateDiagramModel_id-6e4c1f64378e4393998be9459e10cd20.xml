@@ -1,0 +1,29 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Архитектура компании"
+    id="id-6e4c1f64378e4393998be9459e10cd20">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-7c75cf61ecac40139426f1d1a9607852"
+      name="Бизнес уровень"
+      textAlignment="1">
+    <bounds
+        x="108"
+        y="48"
+        width="205"
+        height="133"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-b5e76ce836ff40749da1bef4aed4bafc">
+      <bounds
+          x="12"
+          y="48"
+          width="157"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-5b34c51420894c47a288879d4e1edb3e.xml#id-5b34c51420894c47a288879d4e1edb3e"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
