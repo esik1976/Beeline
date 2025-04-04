@@ -26,4 +26,27 @@
           href="ArchimateDiagramModel_id-5b34c51420894c47a288879d4e1edb3e.xml#id-5b34c51420894c47a288879d4e1edb3e"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-33500922c050404690bad6cbb1d2eeae"
+      name="Solution уровень"
+      textAlignment="1">
+    <bounds
+        x="108"
+        y="216"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-bbb5793fd04541d59e6e68640740ebda">
+      <bounds
+          x="12"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c233b2ee35e3479ab979490b51f1aab7.xml#id-c233b2ee35e3479ab979490b51f1aab7"/>
+    </children>
+  </children>
 </archimate:ArchimateDiagramModel>
