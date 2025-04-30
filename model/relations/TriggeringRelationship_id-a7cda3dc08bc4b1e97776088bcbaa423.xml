@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Номер, порт FIX"
-    id="id-2f9a35223d5341e28cec24d77e46799c">
+    id="id-a7cda3dc08bc4b1e97776088bcbaa423">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-00e492125c9d4c068eb792f1ac5b17fb.xml#id-00e492125c9d4c068eb792f1ac5b17fb"/>
+      href="BusinessProcess_id-def31076073b4074a428e0ccd062213e.xml#id-def31076073b4074a428e0ccd062213e"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-858c0403b55145ef93867d23ff712db8.xml#id-858c0403b55145ef93867d23ff712db8"/>
+      href="BusinessProcess_id-0e428921dfab464c995b1a6991d18e60.xml#id-0e428921dfab464c995b1a6991d18e60"/>
 </archimate:TriggeringRelationship>
