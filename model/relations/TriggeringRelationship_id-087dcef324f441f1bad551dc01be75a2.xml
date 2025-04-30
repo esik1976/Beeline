@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Договор, подписка"
+    id="id-087dcef324f441f1bad551dc01be75a2">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5ffb3405e0ce4fd0a9524c6a130ed984.xml#id-5ffb3405e0ce4fd0a9524c6a130ed984"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3c29cdaa5fa74e938c618304cb969546.xml#id-3c29cdaa5fa74e938c618304cb969546"/>
+</archimate:TriggeringRelationship>

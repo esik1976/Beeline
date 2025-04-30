@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Номер, порт FIX"
+    id="id-7db8cce89bc54a42bbc720d8e639a5c5">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0e428921dfab464c995b1a6991d18e60.xml#id-0e428921dfab464c995b1a6991d18e60"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5ffb3405e0ce4fd0a9524c6a130ed984.xml#id-5ffb3405e0ce4fd0a9524c6a130ed984"/>
+</archimate:TriggeringRelationship>
