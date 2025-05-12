@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Прогнозы загрузки, модели роста, KPI"
+    id="id-89feca77534c4629982d61e13e30832c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1aae37e4f6714037ba494893657f35b6.xml#id-1aae37e4f6714037ba494893657f35b6"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-d18ea157e1b64f88bf0d26eb008be4ba.xml#id-d18ea157e1b64f88bf0d26eb008be4ba"/>
+</archimate:TriggeringRelationship>

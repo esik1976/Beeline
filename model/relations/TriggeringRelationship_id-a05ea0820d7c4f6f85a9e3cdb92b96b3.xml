@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Метрики, отчёты по утилизации"
+    id="id-a05ea0820d7c4f6f85a9e3cdb92b96b3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-70a1919bfc74408cbfcb9cbb40e14968.xml#id-70a1919bfc74408cbfcb9cbb40e14968"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1aae37e4f6714037ba494893657f35b6.xml#id-1aae37e4f6714037ba494893657f35b6"/>
+</archimate:TriggeringRelationship>

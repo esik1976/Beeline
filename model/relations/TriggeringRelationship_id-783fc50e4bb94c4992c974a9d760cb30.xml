@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Идентифицированные отклонения,лог-файлы, alarms"
+    id="id-783fc50e4bb94c4992c974a9d760cb30">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e905e99216f1418c9b79075f2354fedc.xml#id-e905e99216f1418c9b79075f2354fedc"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-70a1919bfc74408cbfcb9cbb40e14968.xml#id-70a1919bfc74408cbfcb9cbb40e14968"/>
+</archimate:TriggeringRelationship>

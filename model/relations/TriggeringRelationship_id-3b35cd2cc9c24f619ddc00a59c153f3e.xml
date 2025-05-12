@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Инвентарные сведения"
+    id="id-3b35cd2cc9c24f619ddc00a59c153f3e">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-a711fe4fed564877b6284da798408e3b.xml#id-a711fe4fed564877b6284da798408e3b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-520c3288aac44af890c6bef268159b50.xml#id-520c3288aac44af890c6bef268159b50"/>
+</archimate:TriggeringRelationship>
