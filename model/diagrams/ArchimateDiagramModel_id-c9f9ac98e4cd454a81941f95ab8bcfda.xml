@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Покупка номера (Мобила / FIX)"
+    name="IT_arch_beeline"
     id="id-c9f9ac98e4cd454a81941f95ab8bcfda">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -2501,9 +2501,9 @@
       textAlignment="1"
       fillColor="#0080ff">
     <bounds
-        x="3360"
-        y="912"
-        width="1125"
+        x="48"
+        y="2292"
+        width="445"
         height="360"/>
   </children>
   <children
@@ -2511,8 +2511,8 @@
       id="id-fa22a75beb104159807060c3b927640a"
       fillColor="#80ff80">
     <bounds
-        x="3384"
-        y="960"
+        x="72"
+        y="2340"
         width="120"
         height="55"/>
     <archimateElement
@@ -2524,8 +2524,8 @@
       id="id-51fd2eca21214da3b1aaebf4edbb085f"
       fillColor="#ffff80">
     <bounds
-        x="3384"
-        y="1032"
+        x="72"
+        y="2412"
         width="120"
         height="55"/>
     <archimateElement
@@ -2537,8 +2537,8 @@
       id="id-e8362ddcf9cd40e4aec6a5ed869db775"
       fillColor="#ff8080">
     <bounds
-        x="3384"
-        y="1104"
+        x="72"
+        y="2484"
         width="120"
         height="55"/>
     <archimateElement
@@ -2549,8 +2549,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dfcc2f4e459248d6b9ee85fc365701e1">
     <bounds
-        x="3384"
-        y="1182"
+        x="72"
+        y="2562"
         width="120"
         height="55"/>
     <archimateElement
@@ -2563,19 +2563,42 @@
       textAlignment="1"
       content="Компонент есть, развитие не требуется">
     <bounds
-        x="3516"
-        y="960"
-        width="265"
+        x="204"
+        y="2340"
+        width="241"
         height="54"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-328007997835417fbb7303ada18c30d5"
-      textAlignment="1">
+      textAlignment="1"
+      content="Компонент есть, требует развития">
     <bounds
-        x="3516"
-        y="1032"
-        width="265"
+        x="204"
+        y="2413"
+        width="241"
+        height="54"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-26d02c8ef60a4a76a5147221ba17d142"
+      textAlignment="1"
+      content="Новый компонент, требуется внедрение">
+    <bounds
+        x="204"
+        y="2484"
+        width="241"
+        height="54"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-052101a922c84d98aed2a41f8c4e0d78"
+      textAlignment="1"
+      content="Не определено, новый/существующий компонент">
+    <bounds
+        x="204"
+        y="2562"
+        width="241"
         height="54"/>
   </children>
 </archimate:ArchimateDiagramModel>
