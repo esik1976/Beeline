@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="B2C"
+    name="ESS_B2C"
     id="id-f292243711814ee1a23e3e9f0af7b71c"
-    documentation="Учет доходов и операций по оборудованию (абоненты и В2В).&#xD;&#xA;Разнесение банковских выписок, учет доходов"/>
+    documentation="Учет доходов и операций по оборудованию (абоненты и В2В).&#xD;&#xA;Разнесение банковских выписок, учет доходов&#xD;&#xA;отражение операций по прочим доходам (не абоненты), отражение прихода и движения абонентского\В2В оборудования, продажи диллерам, разнесение банковской выписки, учет доходов от абонентов компании, включает в себя:Order Management,Supply Chain Planning Central,Receivables,Revenue Management,Accounting Hub"/>
